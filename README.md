@@ -19,7 +19,7 @@ Raspberry PI ( adafruit 1497)
 
 SDR - RTL 2832 w/ R820T .. Adafruit 1497
 
-Not recommended at this time.. Check www.sdr-rtl.com for their neat dongles.  And look at others as well.
+Not recommended at this time.. Check www.sdr-rtl.com for their neat dongles.
 
 
 Flash 8 GB Mini SD card with latest Stretch image
